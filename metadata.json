@@ -1,0 +1,6 @@
+{
+  "name": "KaamKaro - Worker Discovery & Skill Intelligence",
+  "description": "Skills That Work. Opportunities That Matter. Worker profile management, skill intelligence, Bayesian search ranking, and agent availability coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
